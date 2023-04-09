@@ -7,5 +7,12 @@ public class Project2 {
 		
 		System.out.println(2*2);
 	}
+	
+	
+	public static void add() { 
+		
+		System.out.println(2+2);
+		
+	}
 
 }
